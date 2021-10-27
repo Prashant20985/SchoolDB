@@ -1,7 +1,3 @@
---Name:Prashant Sharma
---s no.:s20985
---GroupId:16c
-
 BEGIN
   FOR c IN ( SELECT table_name FROM user_tables)
   LOOP
